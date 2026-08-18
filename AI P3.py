@@ -1,8 +1,3 @@
-# Generated from: AI P3.ipynb
-# Converted at: 2026-08-18T03:07:31.018Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
 print("Hello! I am your smart-search helper. 🤖")
 print("Give me a puzzle and I will find the shortest answer with A*! ⭐")
 def astar(start, goal, get_neighbours, guess):
